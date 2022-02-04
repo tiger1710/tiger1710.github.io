@@ -106,6 +106,8 @@ defaults:
       author_profile: true
       read_time: true
       comments: true
+      sidebar:
+        nav: "docs"
       # share: true
       related: true
   # _pages
