@@ -126,9 +126,13 @@ defaults:
 category_archive:
   type: liquid
   path: /categories/
+  sidebar:
+    nav: "docs"
 tag_archive:
   type: liquid
   path: /tags/
+  sidebar:
+    nav: "docs"
 
 locale: ko_Kr
 github: [metadata]
