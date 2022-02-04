@@ -11,5 +11,5 @@ main:
 docs:
   - title: Categories
     children:
-      - title: "Sample"
-        url: /docs/sample/
+      - title: "Blog"
+        url: /categories/#blog
